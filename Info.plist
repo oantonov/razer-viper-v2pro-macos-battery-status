@@ -6,6 +6,8 @@
     <string>com.razer.batterymonitor</string>
     <key>CFBundleName</key>
     <string>Razer Battery Monitor</string>
+    <key>CFBundleIconFile</key>
+	<string>AppIcon</string>
     <key>CFBundleVersion</key>
     <string>1.0</string>
     <key>CFBundleShortVersionString</key>
